@@ -19,6 +19,8 @@
 
 package aeminium.runtime.tests;
 
+import static org.junit.Assert.assertTrue;
+
 import org.junit.Test;
 
 import aeminium.runtime.Runtime;
